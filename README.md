@@ -2,6 +2,8 @@
 
 A high-performance object tracking application using Kernelized Correlation Filter (KCF) algorithm with real-time video tracking capabilities. This implementation features fullscreen display, high-quality video rendering, and comprehensive tracking metrics.
 
+---
+
 ## 🎯 Features
 
 - **KCF Algorithm**: Advanced Kernelized Correlation Filter for robust object tracking
